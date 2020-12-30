@@ -9,5 +9,5 @@ This project exposed me to the following:
 > Adding sound effects into game  
 > Use of couroutines to handle timers
 
-Feel free to try out the game!
+Feel free to try out the game!  
 Download link: https://tinyurl.com/99problemsgame
