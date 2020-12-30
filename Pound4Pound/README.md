@@ -5,3 +5,6 @@ This project has exposed me to the following:
 > Unity's animator  
 > Adobe Mixamo  
 > Unity's shader graphs  
+
+Feel free to try out the game!  
+Download link: https://tinyurl.com/pound4pound-game
